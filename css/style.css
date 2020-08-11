@@ -1,0 +1,39 @@
+header{
+    background-color: cyan;
+    margin: 20px;
+    height: 80px;
+}
+
+nav{
+    background-color: magenta; 
+    margin: 30px
+}
+
+section{
+    background-color: rgb(62, 113, 223);
+    width: 63%;
+    height: 500px;
+    float: left;
+    margin-right: 10px;
+}
+
+article{
+    background-color: pink;
+    margin: auto;
+    width: 90%;
+    height: 120px;
+}
+
+aside{
+    background-color: coral;
+    width: 36%;
+    height: 500px;
+    display: flex;
+}
+
+footer{
+    background-color: rgb(192, 111, 192);
+    margin: 30px;
+    display: block;
+    height: 60px;
+}
